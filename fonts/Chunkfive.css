@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'CHUNK';
+	src: url('Chunkfive.eot');
+	src: local('?'), url('Chunkfive.woff') format('woff'), url('Chunkfive.ttf') format('truetype'), url('Chunkfive.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
